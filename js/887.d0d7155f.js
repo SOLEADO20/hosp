@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhosp"]=self["webpackChunkhosp"]||[]).push([[887],{5887:function(n,e,s){s.r(e),s.d(e,{default:function(){return o}});var a=s(3396);const r={class:"index"};function t(n,e,s,t,c,u){return(0,a.wg)(),(0,a.iD)("div",r,"欢迎使用，科旺医院 门诊服务！")}var c={name:"Index"},u=s(89);const d=(0,u.Z)(c,[["render",t],["__scopeId","data-v-4d60a787"]]);var o=d}}]);
+//# sourceMappingURL=887.d0d7155f.js.map
